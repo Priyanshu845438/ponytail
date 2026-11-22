@@ -1,3 +1,5 @@
+> **Fork notice:** This is [Priyanshu Raj’s fork](https://github.com/Priyanshu845438/ponytail) of [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail). Original authorship and official project releases belong to the upstream project. [More public projects](https://github.com/Priyanshu845438/Priyanshu845438/blob/main/PUBLIC-REPOSITORIES.md) · [Priyanshu’s profile](https://github.com/Priyanshu845438).
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
